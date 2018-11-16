@@ -1,0 +1,300 @@
+Game: 1
+
+Winner: Ezio
+
+Roll: 33
+
+Loser: Amos
+
+Roll: 31
+
+Game: 2
+
+Winner: Ezio
+
+Roll: 55
+
+Loser: Amos
+
+Roll: 51
+
+Game: 3
+
+Winner: Amos
+
+Roll: 11
+
+Loser: Ezio
+
+Roll: 54
+
+Game: 4
+
+Winner: Amos
+
+Roll: 21
+
+Loser: Ezio
+
+Roll: 44
+
+Game: 5
+
+Winner: Amos
+
+Roll: 65
+
+Loser: Ezio
+
+Roll: 41
+
+Game: 6
+
+Winner: Ezio
+
+Roll: 55
+
+Loser: Amos
+
+Roll: 62
+
+Game: 7
+
+Winner: Amos
+
+Roll: 44
+
+Loser: Ezio
+
+Roll: 53
+
+Game: 8
+
+Winner: Ezio
+
+Roll: 62
+
+Loser: Amos
+
+Roll: 42
+
+Game: 9
+
+Winner: Ezio
+
+Roll: 54
+
+Loser: Amos
+
+Roll: 52
+
+Game: 10
+
+Winner: Amos
+
+Roll: 11
+
+Loser: Ezio
+
+Roll: 62
+
+Game: 11
+
+Winner: Ezio
+
+Roll: 65
+
+Loser: Amos
+
+Roll: 43
+
+Game: 12
+
+Winner: Ezio
+
+Roll: 64
+
+Loser: Amos
+
+Roll: 54
+
+Game: 13
+
+Winner: Amos
+
+Roll: 11
+
+Loser: Ezio
+
+Roll: 54
+
+Game: 14
+
+Winner: Amos
+
+Roll: 41
+
+Loser: Ezio
+
+Roll: 31
+
+Game: 15
+
+Winner: Amos
+
+Roll: 22
+
+Loser: Ezio
+
+Roll: 42
+
+Game: 16
+
+Winner: Amos
+
+Roll: 65
+
+Loser: Ezio
+
+Roll: 32
+
+Game: 17
+
+Winner: Amos
+
+Roll: 33
+
+Loser: Ezio
+
+Roll: 65
+
+Game: 18
+
+Winner: Amos
+
+Roll: 51
+
+Loser: Ezio
+
+Roll: 41
+
+Game: 19
+
+Winner: Amos
+
+Roll: 66
+
+Loser: Ezio
+
+Roll: 43
+
+Game: 20
+
+Winner: Amos
+
+Roll: 55
+
+Loser: Ezio
+
+Roll: 62
+
+Game: 1
+
+Winner: Amos
+
+Roll: 64
+
+Loser: Ezio
+
+Roll: 63
+
+Game: 2
+
+Winner: Amos
+
+Roll: 63
+
+Loser: Ezio
+
+Roll: 31
+
+Game: 3
+
+Winner: Amos
+
+Roll: 44
+
+Loser: Ezio
+
+Roll: 53
+
+Game: 4
+
+Winner: Amos
+
+Roll: 65
+
+Loser: Ezio
+
+Roll: 62
+
+Game: 5
+
+Winner: Ezio
+
+Roll: 53
+
+Loser: Amos
+
+Roll: 42
+
+Game: 6
+
+Winner: Ezio
+
+Roll: 66
+
+Loser: Amos
+
+Roll: 42
+
+Game: 7
+
+Winner: Amos
+
+Roll: 33
+
+Loser: Ezio
+
+Roll: 42
+
+Game: 8
+
+Winner: Ezio
+
+Roll: 64
+
+Loser: Amos
+
+Roll: 32
+
+Game: 9
+
+Winner: Amos
+
+Roll: 63
+
+Loser: Ezio
+
+Roll: 52
+
+Game: 10
+
+Winner: Amos
+
+Roll: 64
+
+Loser: Ezio
+
+Roll: 32
+
