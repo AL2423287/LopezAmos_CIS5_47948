@@ -2,7 +2,7 @@
  * File:   main.cpp
  * Author: Amos Lopez
  * Purpose: "Mexico" Dice Game
- * Created on December 11, 2018, 7:00 PM
+ * Created on December 7, 2018, 7:00 PM
  */
 
 //System Libraries
@@ -132,7 +132,7 @@ int main()
         Prcnt(countP1, countP2, plyr1, plyr2, nGames);
         
         cout << "\nWant to play again?\n";
-        cout << "Enter Y for Yes or N for no and program will end.\n";
+        cout << "Enter Y for Yes or N for no and the program will end\n";
         cout << "(Y/N): ";
         cin>>Choice;
         //if user inputs any key other than 'Y' or 'y', program ends
@@ -259,6 +259,9 @@ void Prcnt(int num1, int num2, string name1, string name2, int number)
     float numWin1, numWin2; //hold # of wins of each player
     numWin1=static_cast<float>(num1);
     numWin2=static_cast<float>(num2);
+    cout.setf(ios::fixed);
+    cout.setf(ios::showpoint);
+    cout.precision(2);
     if(numWin1>numWin2)
     {
         percent=(numWin1/number);

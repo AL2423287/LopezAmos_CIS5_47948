@@ -2,7 +2,7 @@
  * File:   main.cpp
  * Author: Amos Lopez
  * Purpose: "Mexico" Dice Game
- * Created on December 10, 2018, 5:00 PM
+ * Created on December 3, 2018, 5:00 PM
  */
 
 //System Libraries
