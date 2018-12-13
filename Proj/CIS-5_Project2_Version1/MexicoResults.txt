@@ -1,0 +1,100 @@
+Game: 1
+
+Winner: lopez
+
+Roll: 22
+
+Loser: amos
+
+Roll: 64
+
+Game: 2
+
+Winner: amos
+
+Roll: 21
+
+Loser: lopez
+
+Roll: 53
+
+Game: 3
+
+Winner: lopez
+
+Roll: 63
+
+Loser: amos
+
+Roll: 53
+
+Game: 4
+
+Winner: amos
+
+Roll: 21
+
+Loser: lopez
+
+Roll: 43
+
+Game: 5
+
+Winner: lopez
+
+Roll: 53
+
+Loser: amos
+
+Roll: 51
+
+Game: 6
+
+Winner: amos
+
+Roll: 33
+
+Loser: lopez
+
+Roll: 32
+
+Game: 7
+
+Winner: amos
+
+Roll: 44
+
+Loser: lopez
+
+Roll: 61
+
+Game: 8
+
+Winner: lopez
+
+Roll: 55
+
+Loser: amos
+
+Roll: 51
+
+Game: 9
+
+Winner: amos
+
+Roll: 54
+
+Loser: lopez
+
+Roll: 53
+
+Game: 10
+
+Winner: lopez
+
+Roll: 65
+
+Loser: amos
+
+Roll: 53
+
