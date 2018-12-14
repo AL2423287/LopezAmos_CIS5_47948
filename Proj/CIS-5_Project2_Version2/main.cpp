@@ -36,7 +36,6 @@ int main()
     bool winner; //bool will be true if player 1 has the better roll
     ofstream outFile;      //output file to store game number,winner, and loser
     int countP1, countP2;   //counter for number of times each player wins
-    float prcnt;    //percentage of the games won
     
     //Get System Time
     unsigned int seed = time(0);
@@ -122,13 +121,8 @@ int main()
             //display error message if user inputs invalid number of games
             cout<<"ERROR. INVALID ENTRY."<<endl;
         }
-        //display total # of wins for each player and percentage of wins
-        cout<<"\nOut of "<<nGames<<" games,\n";
-        cout<<plyr1<<" won "<<countP1<<" times\n";
-        cout<<"Out of "<<nGames<<" games,\n";
-        cout<<plyr2<<" won "<<countP2<<" times\n\n";
         
-        //pass number of player wins to Prcnt function
+        //pass number of player wins to Prcnt function and display score count
         Prcnt(countP1, countP2, plyr1, plyr2, nGames);
         
         cout << "\nWant to play again?\n";
@@ -259,6 +253,13 @@ void Prcnt(int num1, int num2, string name1, string name2, int number)
     float numWin1, numWin2; //hold # of wins of each player
     numWin1=static_cast<float>(num1);
     numWin2=static_cast<float>(num2);
+    
+    //display total # of wins for each player and percentage of wins
+        cout<<"\nOut of "<<number<<" games,\n";
+        cout<<name1<<" won "<<numWin1<<" times\n";
+        cout<<"Out of "<<number<<" games,\n";
+        cout<<name2<<" won "<<numWin2<<" times\n\n";
+    
     cout.setf(ios::fixed);
     cout.setf(ios::showpoint);
     cout.precision(2);
